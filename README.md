@@ -57,7 +57,6 @@ App service URL : https://sandeepmotel.azurewebsites.net
 <img width="1067" alt="s contact2" src="https://user-images.githubusercontent.com/117561402/209954708-25b6bfb8-695f-4f43-8ea8-a20d24e526be.png">
 ## Care bot
 <img width="1079" alt="s bot1" src="https://user-images.githubusercontent.com/117561402/209953953-62f43859-492d-4c96-9b4e-e67682fcc202.png">
-<img width="1078" alt="s bot2" src="https://user-images.githubusercontent.com/117561402/209953976-f392c517-889a-4897-ac67-4147ec21018e.png">
 ## Azure services
 <img width="1080" alt="s azure" src="https://user-images.githubusercontent.com/117561402/209954188-f554a9a5-6189-46ef-9d14-fca7cacb34fe.png"
 

@@ -13,7 +13,7 @@ Industry      : Lifestyle
 
 Project Title : SANDEEP MOTEL
 
-Problem Statement/Opportunity :  Saneep motel The primary purpose of hotels is to provide travelers with shelter, food, refreshment, and health  services,
+Problem Statement/Opportunity :  Saneep motel primary purpose of hotels is to provide travelers with shelter, food, refreshment, and health  services,
 
 Project Description           :  Best hotel Will give the Best health Results.
 

@@ -17,10 +17,12 @@ Problem Statement/Opportunity :  Saneep motel primary purpose of hotels is to pr
 
 Project Description           :  Best hotel Will give the Best health Results.
 
-Primary Azure Technology      :  Static Web Apps, Azure Health Bot.
+Primary Azure Technology      :  Static Web Apps, Azure Health Bot,App service.
 
 Static Web App URL : https://gray-mushroom-01f338010.2.azurestaticapps.net
 
 Azure Health Bot URL : https://gray-mushroom-01f338010.2.azurestaticapps.net/bot.html
+
+App service URL : https://sandeepmotel.azurewebsites.net
 
 ## MY WEBSITE LINK IS : https://gray-mushroom-01f338010.2.azurestaticapps.net

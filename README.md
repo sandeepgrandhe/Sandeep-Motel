@@ -53,8 +53,8 @@ App service URL : https://sandeepmotel.azurewebsites.net
 <img width="1067" alt="s sigh1" src="https://user-images.githubusercontent.com/117561402/209953799-7fe103f2-c9a3-4e7f-b003-c4b868e3e9bc.png">
 <img width="1067" alt="s sign2" src="https://user-images.githubusercontent.com/117561402/209953813-a304f8ab-5e62-4bbc-ba2c-a787d82c61a9.png">
 ## contact
-<img width="1066" alt="a contact1 - Copy" src="https://user-images.githubusercontent.com/117561402/209953872-76e21c95-0cee-4987-9ce0-ba635ac39a12.png">
-<img width="1067" alt="a contact2 - Copy" src="https://user-images.githubusercontent.com/117561402/209953884-3a81848b-276b-4ff9-bf36-a8e79d47f5c2.png">
+<img width="1069" alt="s contact1" src="https://user-images.githubusercontent.com/117561402/209954701-bf8752ac-9428-40fa-81d4-936b271a47b9.png">
+<img width="1067" alt="s contact2" src="https://user-images.githubusercontent.com/117561402/209954708-25b6bfb8-695f-4f43-8ea8-a20d24e526be.png">
 ## Care bot
 <img width="1079" alt="s bot1" src="https://user-images.githubusercontent.com/117561402/209953953-62f43859-492d-4c96-9b4e-e67682fcc202.png">
 <img width="1078" alt="s bot2" src="https://user-images.githubusercontent.com/117561402/209953976-f392c517-889a-4897-ac67-4147ec21018e.png">
